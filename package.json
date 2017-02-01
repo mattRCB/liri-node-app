@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "0.0.0",
+  "description": "bootcamp_homework_10",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattRCB/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattRCB/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mattRCB/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0",
+    "file-system": "^2.2.2",
+    "colors": "^1.1.2"
+  }
+}
